@@ -1,2 +1,16 @@
 hello this is random text for mars
 Hope you ahd learned something 
+
+git config – list #to make any changes made to the config 
+git config – help # to make the help to see 
+pwd “print working directory”
+mkdir – Make directory 
+git status – see whats on the master 
+git commit -m “” - the msg for your commit
+git log --- list your edits
+git add --- must be used before commited 
+git diff - so I can see the new changes that had been made
+git diff HEAD~1 filename.extension ->head the director and the wavy to version 
+cat --- show whats on the doc
+git checkout HEAD retrieve from the git
+ cd / the thing 
